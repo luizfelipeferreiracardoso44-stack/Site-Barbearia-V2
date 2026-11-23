@@ -548,12 +548,12 @@ footer p {
     max-width: 500px;
 }
 
-.horario {
+.horarios {
     margin-top: 35px;
     border-top: 1px solid #333;
 }
 
-.horario div {
+.horarios div {
     padding: 20px 0;
     border-bottom: 1px solid #333;
 
@@ -561,11 +561,11 @@ footer p {
     justify-content: space-between;
 }
 
-.horario strong {
+.horarios strong {
     color: white;
 }
 
-.horario span {
+.horarios span {
     color: #999;
 }
 
@@ -710,7 +710,7 @@ footer p {
         padding: 25px;
     }
 
-    .horario div {
+    .horarios div {
         flex-direction: column;
         gap: 5px;
     }
